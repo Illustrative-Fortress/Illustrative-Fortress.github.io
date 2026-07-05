@@ -492,6 +492,8 @@ li {
 
 code {
   font-family: "Courier New", monospace;
-  background-color: #BF9070;
-  color: #000000;
+  background-color: #d1b194;
+  color: #24221f;
+  padding: 1px 5px;
+  border-radius: 3px;
 }
