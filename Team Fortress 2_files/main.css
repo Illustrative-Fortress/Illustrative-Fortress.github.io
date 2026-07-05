@@ -3,7 +3,7 @@
 * { outline: none }
 
 body {
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/mainBG.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/mainBG.jpg);
 	background-repeat:repeat-x;
 	background-color:#bbaca5;
 	padding:0;
@@ -41,7 +41,7 @@ body {
 
 #centerBG {
 	width:820px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/centerBG.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/centerBG.jpg);
 	background-repeat:repeat-y;
 	margin:0px;
 	padding:0px;
@@ -49,7 +49,7 @@ body {
 
 #leftContainer {
 	width:462px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/pageTitle.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/pageTitle.jpg);
 	background-repeat:no-repeat;
 	padding-left:36px;
 	padding-top:52px;
@@ -66,7 +66,7 @@ body {
 
 #rightContainer {
 	width:318px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/getNow.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/getNow.jpg);
 	background-repeat:no-repeat;
 	float:right;
 	padding-top:79px;
@@ -210,7 +210,7 @@ a.dateText:hover {
 
 
 #footer {
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footerBG.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footerBG.jpg);
 	height:60px;
 }
 
@@ -286,7 +286,7 @@ li {
 		padding:0;
 		padding-left:40px;
 		padding-bottom:15px;
-		background: url(https://web.archive.org/web/20090219100828im_/http://www.teamfortress.com/images/arrow.gif) no-repeat 0px 3px;
+		background: url(https://web.archive.org/web/20090226121029im_/http://www.teamfortress.com/images/arrow.gif) no-repeat 0px 3px;
 
 }
 
@@ -368,7 +368,7 @@ li {
 	padding-bottom:2px;
 	width:768px;
 	height:449;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/videoShadow.gif);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/videoShadow.gif);
 	background-repeat:no-repeat;
 }
 
@@ -430,7 +430,7 @@ li {
 #footerScout {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_scout.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_scout.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -438,7 +438,7 @@ li {
 #footerSoldier {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_soldier.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_soldier.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -446,7 +446,7 @@ li {
 #footerDemoman {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_demoman.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_demoman.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -454,7 +454,7 @@ li {
 #footerEngineer {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_engineer.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_engineer.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -462,7 +462,7 @@ li {
 #footerHeavy {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_heavy.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_heavy.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -470,7 +470,7 @@ li {
 #footerSniper {
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_sniper.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_sniper.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -478,7 +478,7 @@ li {
 #footerSandvich{
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_sandvich.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_sandvich.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -486,7 +486,7 @@ li {
 #footerTrailer{
 	width:820px;
 	height:320px;
-	background-image:url(/web/20090219100828im_/http://www.teamfortress.com/images/footer_trailer.jpg);
+	background-image:url(/web/20090226121029im_/http://www.teamfortress.com/images/footer_trailer.jpg);
 	background-repeat:no-repeat;
 	background-position:bottom
 }
@@ -494,8 +494,8 @@ li {
 
 
 /*
-     FILE ARCHIVED ON 10:08:28 Feb 19, 2009 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 16:40:31 Jul 04, 2026.
+     FILE ARCHIVED ON 12:10:29 Feb 26, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:08:29 Jul 05, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -503,8 +503,8 @@ li {
 */
 /*
 playback timings (ms):
-  capture_cache.get: 0.487
-  load_resource: 158.035
-  PetaboxLoader3.resolve: 109.642
-  PetaboxLoader3.datanode: 37.179
+  capture_cache.get: 0.29
+  load_resource: 156.186
+  PetaboxLoader3.resolve: 115.409
+  PetaboxLoader3.datanode: 29.506
 */

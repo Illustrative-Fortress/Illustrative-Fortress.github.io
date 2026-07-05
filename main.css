@@ -42,7 +42,8 @@ body {
 #centerBG {
 	width:820px;
 	background-image:url(images/centerBG.jpg);
-	background-repeat:repeat-y;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
 	margin:0px;
 	padding:0px;
 }
