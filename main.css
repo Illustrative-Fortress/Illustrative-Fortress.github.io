@@ -489,3 +489,9 @@ li {
 	background-repeat:no-repeat;
 	background-position:bottom
 }
+
+code {
+  font-family: "Courier New", monospace;
+  background-color: #BF9070;
+  color: #000000;
+}
