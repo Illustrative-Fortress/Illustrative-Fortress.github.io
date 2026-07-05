@@ -50,7 +50,6 @@ body {
 
 #leftContainer {
 	width:462px;
-	background-image:url(images/pageTitle.jpg);
 	background-repeat:no-repeat;
 	padding-left:36px;
 	padding-top:52px;
@@ -67,7 +66,6 @@ body {
 
 #rightContainer {
 	width:318px;
-	background-image:url(images/getNow.jpg);
 	background-repeat:no-repeat;
 	float:right;
 	padding-top:79px;
