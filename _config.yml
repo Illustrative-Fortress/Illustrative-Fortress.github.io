@@ -1,7 +1,0 @@
-highlighter: rouge
-plugins:
-  - jekyll-feed
-title: Illustrative Fortress Website
-description: The official Illustrative Fortress Website
-author: The Illustrative Fortress Team
-permalink: /:year/:month/:day/:title:output_ext
