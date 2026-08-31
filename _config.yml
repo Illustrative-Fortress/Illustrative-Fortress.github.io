@@ -1,5 +1,4 @@
 plugins:
   - jekyll-feed
-title: test
-description: test
-author: test
+feed:
+  path: /feed.xml
