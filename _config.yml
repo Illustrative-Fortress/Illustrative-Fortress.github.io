@@ -1,4 +1,5 @@
 plugins:
   - jekyll-feed
-feed:
-  path: /feed.xml
+
+title: The Illustrative Fortress Website
+description: The official website for the Illustrative Fortress project.
