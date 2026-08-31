@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<img src="images/officialblogtext.jpg" border="0"
+	oncontextmenu="return false;"
+	draggable="false"
+	style="display: block; height: 22px; width: auto;
+		   user-select: none; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none;">
+<div class="leftHR"><img src="images/hr.gif" width="462" height="1" border="0"></div>
+<a href="{{ page.url }}" class="postLink">{{ page.title }}</a>
+<h2>{{ page.date | date: "%B %-d, %Y" }} - {{ page.author }}</h2>
+<p style="padding-top: 10px;">
+	{{ content }}
+</p>
+<div style="height:40px;"></div>
+<a class="standardLink" href="/">Back to main page</a>
