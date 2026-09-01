@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "IF's Download Links will be down"
-date: 2026-08-31 13:51:00 +0800
+title: "Removal request."
+date: 2026-09-01 13:47:15 +0700
 author: The IF Team
 ---
 
