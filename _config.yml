@@ -3,5 +3,3 @@ plugins:
 
 title: The Illustrative Fortress Website
 description: The official website for the Illustrative Fortress project.
-exclude:
-  - unused/
